@@ -4,10 +4,6 @@
 저는 **협업과 소통을 중요하게 생각하는 백엔드 개발자**입니다.  
 기존 기술을 **응용하여 새로운 방식으로 구현하는 것**을 즐기며, 유연한 사고로 문제를 해결하고자 노력합니다.
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=SeungHun333&label=Visitor&color=0e75b6&style=flat-square" alt="visitor badge"/>
-</p>
-
 ---
 
 ## 💻 기술 스택
