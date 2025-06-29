@@ -39,9 +39,7 @@ Spring Boot에 적응하고 구조를 익히기 위한 토이 프로젝트입니
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungHun333&show_icons=true&theme=tokyonight" height="180px"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SeungHun333&show_icons=true&theme=tokyonight" height="180px"/>
 
 ---
 
