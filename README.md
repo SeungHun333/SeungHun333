@@ -5,7 +5,7 @@
 기존 기술을 **응용하여 새로운 방식으로 구현하는 것**을 즐기며, 유연한 사고로 문제를 해결하고자 노력합니다.
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Visitor&color=0e75b6&style=flat-square" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=SeungHun333&label=Visitor&color=0e75b6&style=flat-square" alt="visitor badge"/>
 </p>
 
 ---
@@ -34,21 +34,6 @@ Spring Boot에 적응하고 구조를 익히기 위한 토이 프로젝트입니
 
 ### 🚗 Rento
 기업 프로젝트로, 차량 관제 플랫폼을 개발하며 **대용량 처리 및 실시간 위치 데이터 처리 경험**을 쌓았습니다.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-## 🕒 GitHub 연속 커밋 그래프
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
